@@ -6,6 +6,7 @@ from os.path import join
 
 ''' 将xml的标签转成txt格式的 '''
 
+
 postfix = 'jpg'                     #图片的后缀格式
 imgpath = 'VOC/JPEGImages'
 xmlpath = 'VOC/Annotations'
